@@ -4,7 +4,7 @@
 
 **Full Stack Developer & AI Engineer**
 
-[LinkedIn](https://linkedin.com/in/yourprofile) • [Portfolio](https://yourportfolio.com) • [Email](mailto:your.email@example.com)
+[LinkedIn](https://www.linkedin.com/in/muhammad-shoaib-me) • [Portfolio](https://shoaibimran.codes/) • [Email](shoaibimran4569@gmail.com )
 
 </div>
 
