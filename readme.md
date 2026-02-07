@@ -32,13 +32,6 @@ TensorFlow • PyTorch • Pandas • scikit-learn
 
 **Tools**  
 Git • Linux • VS Code • Figma
-
----
-
----
-
----
-
 ## Contact
 
 Open to collaborating on innovative projects and consulting opportunities.
