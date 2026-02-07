@@ -35,23 +35,7 @@ Git • Linux • VS Code • Figma
 
 ---
 
-## GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=00D9FF&text_color=9CA3AF&count_private=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true&background=0D1117&stroke=FFFFFF&ring=00D9FF&fire=00D9FF&currStreakLabel=FFFFFF" alt="Streak Stats" width="49%" />
-</div>
-
 ---
-
-## Featured Work
-
-<div align="center">
-
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=00D9FF)](https://github.com/yourusername/project1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=00D9FF)](https://github.com/yourusername/project2)
-
-</div>
 
 ---
 
