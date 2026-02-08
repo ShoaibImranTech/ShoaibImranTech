@@ -41,12 +41,12 @@ CI/CD with GitHub Actions, Docker containerization, Linux server administration
 
 ## Featured Projects
 
-### [Project Name 1](https://github.com/ShoaibImranTech/Hotel-Management-System---Database.git) —  Hotel Management System — Enterprise Database Architecture
+### [ Hotel Management System — Enterprise Database Architecture](https://github.com/ShoaibImranTech/Hotel-Management-System---Database.git) 
 Designed and implemented a normalized relational database system managing complete hotel operations from guest registration through billing. Built with scalable schema architecture supporting multi-property expansion and real-time room inventory tracking.
 
 **Stack:**  MySQL, SQL (DDL/DML/DCL), Database Design, Normalization (3NF), Indexing, Transaction Management
 
-### [Project Name 2](https://github.com/ShoaibImranTech/ShoaibImranTech.git) —Enterprise SQL Framework for Scalable Data Analytics
+### [Enterprise SQL Framework for Scalable Data Analytics](https://github.com/ShoaibImranTech/ShoaibImranTech.git)
 Built a production-grade SQL framework providing complete analytics infrastructure for data-driven organizations. Architected with modular schema design, optimized query patterns, and pre-built analytical views for immediate business intelligence deployment.
 
 **Stack:** PostgreSQL, Advanced SQL (CTEs, Window Functions), Dimensional Modeling, Analytics Engineering, BI Integration
