@@ -52,10 +52,8 @@ Built a production-grade SQL framework providing complete analytics infrastructu
 **Stack:** PostgreSQL, Advanced SQL (CTEs, Window Functions), Dimensional Modeling, Analytics Engineering, BI Integration
 ##  GitHub Activity & Stats
 
-<img height="200" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Expand file tree
-ShoaibImranTech&theme=transparent" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Expand file tree
-ShoaibImranTech&theme=transparent" />
+<img height="200" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShoaibImranTech&theme=transparent" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShoaibImranTech&theme=transparent" />
 
 ---
 
