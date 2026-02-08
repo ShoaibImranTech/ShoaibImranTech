@@ -55,23 +55,13 @@ Built a production-grade SQL framework providing complete analytics infrastructu
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShoaibImranTech&show_icons=true&theme=default&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShoaibImranTech&layout=compact&theme=default&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=default&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShoaibImranTech&theme=default&hide_border=true)
 
 </div>
-
----
-
-## Technical Writing & Knowledge Sharing
-
-I write about software engineering, system design, and AI implementation:
-
-- **[Blog Post Title 1](link)** — Deep dive into optimizing React rendering performance
-- **[Blog Post Title 2](link)** — Building scalable ML inference pipelines on AWS
-- **[Tutorial Series](link)** — Full-stack development with Next.js and Django
 
 ---
 
