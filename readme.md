@@ -83,6 +83,6 @@ I'm interested in collaborating on challenging technical projects, particularly 
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=ShoaibImranTech&color=blueviolet)
 
 </div>
