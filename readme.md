@@ -50,18 +50,12 @@ Designed and implemented a normalized relational database system managing comple
 Built a production-grade SQL framework providing complete analytics infrastructure for data-driven organizations. Architected with modular schema design, optimized query patterns, and pre-built analytical views for immediate business intelligence deployment.
 
 **Stack:** PostgreSQL, Advanced SQL (CTEs, Window Functions), Dimensional Modeling, Analytics Engineering, BI Integration
+##  GitHub Activity & Stats
 
-## GitHub Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShoaibImranTech&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShoaibImranTech&layout=compact&theme=default&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShoaibImranTech&theme=default&hide_border=true)
-
-</div>
+<img height="200" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Expand file tree
+ShoaibImranTech&theme=transparent" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Expand file tree
+ShoaibImranTech&theme=transparent" />
 
 ---
 
