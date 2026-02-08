@@ -2,7 +2,7 @@
 
 # Muhammad Shoaib
 
-**Senior Full Stack Developer & AI Solutions Architect**
+**Full Stack Developer & AI Engineer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-shoaib-me)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://shoaibimran.codes/)
@@ -14,74 +14,93 @@
 
 ## About Me
 
-I architect and deliver enterprise-grade software solutions that bridge advanced engineering practices with artificial intelligence. My work focuses on building scalable, resilient systems that solve complex business challenges through clean code, robust infrastructure, and innovative technology integration.
+I build web applications and AI-powered tools that solve real problems. My background spans full-stack development, machine learning engineering, and cloud infrastructure—I'm most interested in projects where these disciplines intersect.
 
-With expertise spanning full-stack development, cloud architecture, and machine learning operations, I specialize in transforming ambitious technical visions into production-ready platforms that drive measurable business outcomes.
-
-### Core Competencies
-
-**Software Architecture** — Designing distributed systems, microservices architectures, and scalable application frameworks  
-**AI/ML Engineering** — Developing and deploying production machine learning pipelines, NLP systems, and intelligent automation  
-**Cloud Infrastructure** — Building cloud-native solutions with AWS, implementing CI/CD workflows, and optimizing performance at scale  
-**Technical Leadership** — Driving engineering excellence, establishing best practices, and mentoring development teams
+Currently focused on scalable systems architecture, real-time data processing, and applying ML/NLP to production environments. I believe good software is measured by its impact, maintainability, and the problems it solves.
 
 ---
 
-## Technical Stack
+## What I Work With
 
-### Languages & Frameworks
-```
-Frontend:    React • Next.js • TypeScript • Vue.js • Tailwind CSS
-Backend:     Node.js • Python • Django • FastAPI • Express.js • GraphQL
-AI/ML:       TensorFlow • PyTorch • scikit-learn • Pandas • NumPy
-```
+**Frontend**  
+React, Next.js, TypeScript, Vue.js, Tailwind CSS
 
-### Infrastructure & Data
-```
-Cloud:       AWS (EC2, Lambda, S3, RDS, CloudFront) • Vercel • Netlify
-DevOps:      Docker • Kubernetes • GitHub Actions • CI/CD Pipelines
-Databases:   PostgreSQL • MongoDB • Redis • MySQL
-Tools:       Git • Linux • Nginx • WebSockets • RESTful APIs
-```
+**Backend**  
+Node.js, Python, Django, FastAPI, Express.js, GraphQL
 
----
+**AI/ML**  
+TensorFlow, PyTorch, scikit-learn, NLP pipelines, model deployment
 
-## Selected Projects & Contributions
+**Infrastructure & Data**  
+AWS (EC2, Lambda, S3, RDS), Docker, Kubernetes, PostgreSQL, MongoDB, Redis
 
-I work on production systems serving thousands of users, with a focus on:
-
-- **Enterprise Web Applications** — High-performance platforms with complex business logic and real-time features
-- **AI-Powered Solutions** — Intelligent systems leveraging natural language processing and predictive analytics
-- **Scalable Backend Systems** — Distributed architectures handling high-traffic loads with optimal reliability
-- **Developer Tools & Automation** — Building tools that enhance team productivity and code quality
-
-*Portfolio showcasing detailed case studies available at [shoaibimran.codes](https://shoaibimran.codes/)*
+**DevOps**  
+CI/CD with GitHub Actions, Docker containerization, Linux server administration
 
 ---
 
-## Approach & Philosophy
+## Featured Projects
 
-**Quality First** — Writing maintainable, well-tested code with comprehensive documentation  
-**Performance Optimization** — Building systems that scale efficiently under demanding workloads  
-**Continuous Learning** — Staying current with emerging technologies and industry best practices  
-**Business Alignment** — Ensuring technical solutions directly support organizational objectives
+### [Project Name 1](https://github.com/ShoaibImranTech/Hotel-Management-System---Database.git) —  Hotel Management System — Enterprise Database Architecture
+Designed and implemented a normalized relational database system managing complete hotel operations from guest registration through billing. Built with scalable schema architecture supporting multi-property expansion and real-time room inventory tracking.
+
+**Stack:**  MySQL, SQL (DDL/DML/DCL), Database Design, Normalization (3NF), Indexing, Transaction Management
+
+### [Project Name 2](https://github.com/ShoaibImranTech/ShoaibImranTech.git) —Enterprise SQL Framework for Scalable Data Analytics
+Built a production-grade SQL framework providing complete analytics infrastructure for data-driven organizations. Architected with modular schema design, optimized query patterns, and pre-built analytical views for immediate business intelligence deployment.
+
+**Stack:** PostgreSQL, Advanced SQL (CTEs, Window Functions), Dimensional Modeling, Analytics Engineering, BI Integration
+
+## GitHub Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=default&hide_border=true)
+
+</div>
 
 ---
 
-## Professional Collaboration
+## Technical Writing & Knowledge Sharing
 
-I'm open to consulting opportunities, technical partnerships, and challenging projects that push the boundaries of what's possible with modern technology.
+I write about software engineering, system design, and AI implementation:
 
-### Let's Connect
+- **[Blog Post Title 1](link)** — Deep dive into optimizing React rendering performance
+- **[Blog Post Title 2](link)** — Building scalable ML inference pipelines on AWS
+- **[Tutorial Series](link)** — Full-stack development with Next.js and Django
 
-**For Business Inquiries:** [shoaibimran4569@gmail.com](mailto:shoaibimran4569@gmail.com)  
-**Professional Network:** [LinkedIn](https://www.linkedin.com/in/muhammad-shoaib-me)  
-**Portfolio & Case Studies:** [shoaibimran.codes](https://shoaibimran.codes/)
+---
+
+## Current Focus
+
+- Building production ML systems with focus on reliability and observability
+- Exploring serverless architectures for cost-effective scaling
+- Contributing to open source projects in the TypeScript/Python ecosystem
+- Improving my understanding of distributed systems and database optimization
+
+---
+
+## Open to Opportunities
+
+I'm interested in collaborating on challenging technical projects, particularly those involving:
+
+- Complex full-stack web applications with real-time requirements
+- AI/ML integration into production systems
+- High-performance backend architecture
+- Developer tools and automation
+
+**Email:** [shoaibimran4569@gmail.com](mailto:shoaibimran4569@gmail.com)  
+**LinkedIn:** [muhammad-shoaib-me](https://www.linkedin.com/in/muhammad-shoaib-me)  
+**Portfolio:** [shoaibimran.codes](https://shoaibimran.codes/)
 
 ---
 
 <div align="center">
 
-*Building exceptional software solutions through engineering excellence and innovative thinking*
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet)
 
 </div>
