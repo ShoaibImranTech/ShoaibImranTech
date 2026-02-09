@@ -79,10 +79,4 @@ I'm interested in collaborating on challenging technical projects, particularly 
 **LinkedIn:** [muhammad-shoaib-me](https://www.linkedin.com/in/muhammad-shoaib-me)  
 **Portfolio:** [shoaibimran.codes](https://shoaibimran.codes/)
 
----
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=ShoaibImranTech&color=blueviolet)
-
-</div>
